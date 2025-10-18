@@ -1,5 +1,8 @@
 ## GCP Cloud Run 
-To run the cloud function in the Google cloud console I first went to the search bar and looked for "cloud run". This is where the serverless coud functions live. From there I created the serverless function and was able to edit the code. After having made changes to my code, I used the COLAB nootebook in order to run a GET request. In there I used a python script that included my serverless URL to connect the two and get a JSON output. 
+To run the cloud function in the Google Cloud Console, I first went to the search bar and looked for "Cloud Run". This is where the serverless cloud functions live. From there, I created the serverless function and was able to edit the code. After having made changes to my code, I used the COLAB notebook to run a GET request. In there, I used a Python script that included my serverless URL to connect the two and get a JSON output.
+
+### url 
+url is in gcp python file
 
 ## screenshots 
 these screenshots show the gcp source code tab with my full python script 
