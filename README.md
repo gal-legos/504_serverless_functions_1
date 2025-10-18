@@ -1,5 +1,8 @@
 # Serverless Functions Lab
 
+## Video link 
+video(https://www.canva.com/design/DAG2G4au0mE/-ZymnMW_qfpIVumH3VMGdQ/edit?utm_content=DAG2G4au0mE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 ## Lab Rules
 For this serverless functions assignment, I chose HbA1c levels as my chosen medical indicator.
 HbA1c normal level : <5.7%
