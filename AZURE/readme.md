@@ -13,7 +13,9 @@ curl with url
 
 
 ## Screenshots
-![did_not_work](serverless_function_screenshots/fml.png)
+![did_not_work](../serverless_function_screenshots/fml.png)
 
 
-![colab_output](serverless_function_screenshots/original_zure_colab_output.png)
+![colab_output](../serverless_function_screenshots/original_zure_colab_output.png)
+
+![colab_output_2](../serverless_function_screenshots/original_azure_colab_output2.png)
