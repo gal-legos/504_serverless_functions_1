@@ -5,6 +5,7 @@ To create the function app in azure I was able to deploy it by searching for the
 
 #### trouble shoot code
 curl with url
+cannot add url without it messing up github because there are "azure secrets"
 
 
 ###### had to break the link to post
